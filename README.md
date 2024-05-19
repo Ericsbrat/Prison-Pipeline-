@@ -1,6 +1,8 @@
+Got it, here's the updated README without the free tablets feature:
+
 # Prison Pipeline
 
-The Prison Pipeline project aims to support individuals transitioning back into society after incarceration by providing resources and programs to help them learn to code, secure housing, and maintain strong family connections.
+The Prison Pipeline project aims to support individuals transitioning back into society after incarceration by providing resources and programs to help them learn to code, secure housing, maintain strong family connections, and access entertainment and communication services.
 
 ## Table of Contents
 - [Features](#features)
@@ -19,6 +21,11 @@ The Prison Pipeline project offers the following key features:
 - **Transportation Support**: Offer ridesharing or public transportation vouchers to help participants get to work, appointments, and family visits.
 - **Family Involvement**: Facilitate regular family meetings and activities to strengthen relationships and support networks.
 - **Mentorship Program**: Match participants with volunteer mentors who can provide guidance, advice, and emotional support.
+- **Communication Services**:
+  - Cheaper phone calls for participants to stay in touch with loved ones
+  - Longer and more frequent video visits with family members
+- **Entertainment Access**:
+  - Access to a wide selection of free movies and music
 
 ## Getting Started
 
@@ -40,6 +47,8 @@ The Prison Pipeline project is designed to be a comprehensive resource for indiv
 - [Transportation Voucher Application](https://example.com/transportation-assistance)
 - [Family Engagement Events](https://example.com/family-involvement)
 - [Mentorship Program Sign-up](https://example.com/mentorship)
+- [Communication Services](https://example.com/communication)
+- [Entertainment Access](https://example.com/entertainment)
 
 ## Contributing
 
